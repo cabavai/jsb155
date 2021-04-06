@@ -1,0 +1,99 @@
+.ok{
+    width:100%;
+    height:100vh;
+    background: linear-gradient(to right, #ECF0FF 50%, white 50% );
+   
+}
+.đề{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+    
+
+img{
+    width: 700px;
+    height: 1000px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ;
+}
+.đề2{                                  
+    display: flex;
+
+}                            
+.header{  
+    display: flex;
+    justify-content: space-between;
+}       
+
+p{
+    display: flex;
+    justify-content: flex-end;
+}
+button{
+    background-color:mediumblue;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    width: 124px;
+}
+.de3{
+    width:100%;
+    height:100vh;
+    text-align: center;
+}
+.pr{
+    color: mediumblue;
+}
+h1{
+    color: mediumblue;
+}
+.ed{
+    font-size: 10px;
+}
+.de44{
+    text-align: center;
+}
+.bl{
+    display: flex;
+    justify-content: center;
+}
+.de333{
+    text-align: center;
+   
+}
+h5{
+    font-size: 40px;
+    text-align: center;
+}
+.b{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    justify-content: right;
+    align-items: center;
+}
+.q{
+    width: 400px;
+    
+}
+.w{
+    width: 400px; 
+}
+.e{
+    width: 400px;
+}
+.r{
+    width: 400px;
+    height: 100px;
+}
+.s{
+    display: flex;
+    justify-content: center;
+}
+.hh{
+    width: 300px;
+    height: 200px;
+}
